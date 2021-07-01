@@ -1,6 +1,6 @@
 ## ResearchWork
 
-​		My personal research work mainly on SLAM, includes **Relocalization and Multi-sensor Information Fusion.**If you are interested in my work, just send me an e-mail.
+​		My personal research work mainly on SLAM, includes **Relocalization and Multi-sensor Information Fusion.** If you are interested in my work, just send me an e-mail.
 
 
 
@@ -58,6 +58,7 @@
 - [ ] [[ICRA2017] Fast-SeqSLAM: A Fast Appearance Based Place Recognition Algorithm](http://ncfrn.mcgill.ca/members/pubs/ICRA17_1778_FI.pdf)
 - [x] [[CVPR2017] Are Large-Scale 3D Models Really Necessary for Accurate Visual Localization? ](https://openaccess.thecvf.com/content_cvpr_2017/papers/Sattler_Are_Large-Scale_3D_CVPR_2017_paper.pdf)
 - [x] [[CVPR2018] Benchmarking 6DOF Outdoor Visual Localization in Changing Conditions](https://openaccess.thecvf.com/content_cvpr_2018/papers/Sattler_Benchmarking_6DOF_Outdoor_CVPR_2018_paper.pdf) [**project**](https://www.visuallocalization.net/)
+- [x] [[2017] Toward Geometric Deep SLAM](http://scholar.google.com.hk/scholar_url?url=https://arxiv.org/pdf/1707.07410&hl=zh-CN&sa=X&ei=fKXdYOSEKsWM6rQPgeafyAQ&scisig=AAGBfm3IL7nLPM3BTBe2jJi2MjzoXcz7hg&nossl=1&oi=scholarr)
 - [ ] [[RSS2018] Lightweight Unsupervised Deep Loop Closure](https://arxiv.org/pdf/1805.07703.pdf) [**code**](https://github.com/rpng/calc)
 - [ ] [[CVPR2019] Understanding the Limitations of CNN-based Absolute Camera Pose Regression](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sattler_Understanding_the_Limitations_of_CNN-Based_Absolute_Camera_Pose_Regression_CVPR_2019_paper.pdf)
 - [x] [[CVPR2019] From Coarse to Fine: Robust Hierarchical Localization at Large Scale](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sarlin_From_Coarse_to_Fine_Robust_Hierarchical_Localization_at_Large_Scale_CVPR_2019_paper.pdf) [**code**](https://github.com/ethz-asl/hfnet)
