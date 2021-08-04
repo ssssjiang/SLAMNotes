@@ -1,0 +1,48 @@
+\documentclass[a4paper, 12pt]{ctexart}
+\author{陈煜}
+\title{SLAM第四讲作业}
+
+\usepackage{xeCJK}
+
+\setmainfont{Times New Roman}
+\setCJKmainfont{Microsoft YaHei}
+
+\begin{document}
+\maketitle
+
+\section{•}
+
+\section{图像去畸变}
+代码见目录2
+
+\section{双目视差的使用}
+代码见目录3
+
+\section{矩阵微分}
+
+\begin{enumerate}
+    \item $\frac{d(Ax)}{dx} = A $
+    \item $\frac{d(x^TAx)}{dx} = (A + A^T)x $
+    \item $$xA^Tx = \sum_{i=1}^N \sum_{i=1}^N a_{ij}x_ix_j,$$
+    
+		$
+			xx^T = 
+			\left[
+			\begin{array}{cccc}
+			x_1^2 & x_1x_2 & ... & x_1x_n \\
+			x_1x_2 & x_2^2 & ... & x_2x_n \\
+			... & ... &   & ...\\
+			x_1x_n & x_2x_n & ... & x_n^2
+			\end{array}
+			\right]
+		$   
+		
+		对于$Axx^T$,对角线元素分别为
+		$$\sum_{j=1}^N a_{1j}x_1x_j, \sum_{j=1}^N a_{2j}x_2x_j, ... , \sum_{j=1}^N a_{Nj}x_Nx_j$$
+		所以，$$ tr(Axx^T) = \sum_{i=1}^N \sum_{j=1}^N a_{ij}x_ix_j$$
+		由此可得，$xA^Tx = tr(Axx^T)$
+    
+    
+\end{enumerate}
+
+\end{document}

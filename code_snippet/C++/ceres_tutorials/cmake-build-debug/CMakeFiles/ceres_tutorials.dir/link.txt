@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/ceres_tutorials.dir/main.cpp.o  -o ceres_tutorials 

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/songshu/文档/LearnningNotes/code_snippet/C++/functor/main.cpp
+iostream
+-
+assert.h
+-
+vector
+-
+algorithm
+-
+boost/function.hpp
+-
+boost/bind.hpp
+-
+functional
+-
+
